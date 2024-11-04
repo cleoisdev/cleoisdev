@@ -33,18 +33,6 @@
 
 ---
 
-## 💻 DEV's log 💻
-  <a href="https://hellotaja.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-F36C00?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
-  </a>
-<div>
-    
-    https://hellotaja.tistory.com
-    
-</div>
-
----
-
 ## 🏆 Algorithmic Achievements
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noory22)](https://solved.ac/noory22/)
@@ -54,6 +42,9 @@
 ## 🌐 Connect with Me
   <a href="mailto:morepresent@kakao.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://hellotaja.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-F36C00?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
   </a>
 
 ---
